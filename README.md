@@ -8,6 +8,11 @@ An Electron application with React
 
 ## Project Setup
 
+### Clone repository
+```bash
+git clone https://github.com/jamesnpe13/Library-Info-System.git && cd Library-Info-System && npm i && npm run dev
+```
+
 ### Install
 
 ```bash
