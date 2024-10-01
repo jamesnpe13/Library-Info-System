@@ -10,6 +10,7 @@ An Electron application with React
 
 ### Clone repository
 ```bash
+# gitBash
 git clone https://github.com/jamesnpe13/Library-Info-System.git && cd Library-Info-System && npm i && npm run dev
 ```
 
